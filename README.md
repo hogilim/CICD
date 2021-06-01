@@ -1,2 +1,2 @@
 # CICD
-for Jenkins test
+for Jenkins demo
